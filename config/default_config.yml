@@ -1,0 +1,11 @@
+audio:
+  channels: 1
+  rate: 16000
+  chunk: 1024
+
+voice_control:
+  wake_word: assistant
+  threshold: 0.5
+
+transcriber:
+  model: base

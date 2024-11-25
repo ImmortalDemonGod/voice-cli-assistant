@@ -1,0 +1,16 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+.env
+.coverage
+htmlcov/
+dist/
+build/
+*.egg-info/
+.DS_Store
+whisper-models/
+recordings/

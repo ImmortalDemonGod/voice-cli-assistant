@@ -1,0 +1,9 @@
+typer
+pyaudio
+openai-whisper
+numpy
+fastapi
+python-multipart
+pyyaml
+pytest
+pytest-cov
